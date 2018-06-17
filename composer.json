@@ -1,0 +1,36 @@
+{
+  "name": "linuskohl/phpdatacite",
+  "license": "GPL-3.0",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Linus Kohl",
+      "email": "linus.kohl@munichresearch.com",
+      "homepage": "https://github.com/linuskohl"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/linuskohl/phpdatacite"
+  },
+  "require": {
+    "netresearch/jsonmapper": "~1.4.0"
+  },
+  "keywords": [
+    "DataCite",
+    "Research data",
+    "data",
+    "Metadata"
+  ],
+  "autoload": {
+    "psr-4": {
+      "linuskohl\\phpdatacite\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "linuskohl\\phpdatacite\\": [
+        "tests"
+      ]
+    }
+  }
+}
