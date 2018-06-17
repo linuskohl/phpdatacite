@@ -7,7 +7,7 @@ namespace linuskohl\phpdatacite\models\identifiers;
  *
  * @package   linuskohl\phpdatacite
  * @license   https://opensource.org/licenses/GPL-3.0  GPL-3.0
- * @link      https://github.com/linuskohl/php-datacite
+ * @link      https://github.com/linuskohl/phpdatacite
  * @copyright 2018-2020 Linus Kohl <linus@munichresearch.com>
  */
 class RelatedIdentifier
